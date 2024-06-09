@@ -1,4 +1,12 @@
 {
+  "keywords": [
+    "nextjs",
+    "chappie",
+    "reactjs",
+    "stable diffusion",
+    "cloudflare workers ai",
+    "text-to-image"
+  ],
   "private": true,
   "scripts": {
     "build": "next build",
